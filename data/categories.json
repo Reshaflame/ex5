@@ -1,0 +1,20 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "history"
+        },
+        {
+            "id": 2,
+            "name": "cooking"
+        },
+        {
+            "id": 3,
+            "name": "science"
+        },
+        {
+            "id": 4,
+            "name": "fantasy"
+        }
+    ]
+}
